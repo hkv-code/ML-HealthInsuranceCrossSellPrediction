@@ -1,6 +1,6 @@
 # HEALTH INSURANCE CROSS SELL PREDICTION
 
-I have undertaken the project of predicting whether a customer would be interested in buying Vehicle Insurance. This will help our company plan its communication strategy to reach out to those customers and optimize its business model and revenue.
+I have undertaken the project of predicting whether a customer would be interested in buying Vehicle Insurance. This will help the company plan its communication strategy to reach out to those customers and optimize its business model and revenue.
 
 ## Abstract
 
